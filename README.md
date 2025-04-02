@@ -9,7 +9,7 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="./readme-images/profile.png" />
 
   <h2 align="center">Jack - Personal portfolio</h2>
 
